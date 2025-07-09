@@ -19,5 +19,31 @@
 
   <main>
     <section class="products">
-      <article class=
+      <article class="product">
+        <img src="images/product1.jpg" alt="Product 1">
+        <h2>Product 1</h2>
+        <p>$19.99</p>
+        <button>Add to Cart</button>
+      </article>
 
+      <article class="product">
+        <img src="images/product1.jpg" alt="Product 2">
+        <h2>Product 2</h2>
+        <p>$29.99</p>
+        <button>Add to Cart</button>
+      </article>
+
+      <article class="product">
+        <img src="images/product1.jpg" alt="Product 3">
+        <h2>Product 3</h2>
+        <p>$39.99</p>
+        <button>Add to Cart</button>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Simple Shop. All rights reserved.</p>
+  </footer>
+</body>
+</html>
